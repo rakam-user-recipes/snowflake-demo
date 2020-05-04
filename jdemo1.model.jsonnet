@@ -5,7 +5,7 @@
     schema : "PUBLIC",
     table : "JDEMO1"
   },
-  mappings : { },
+  mappings : { }, 
   dimensions : {
     v : {
       type : "string",

@@ -4,7 +4,7 @@
   mappings : { },
   dimensions : {
     _ : { 
-      label : "1",
+      label : "1", 
       type : "decimal", 
       column : "1"
     }

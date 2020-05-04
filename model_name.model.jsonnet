@@ -5,7 +5,7 @@
   dimensions : {
     _ : {
       label : "1",
-      type : "decimal",
+      type : "decimal", 
       column : "1"
     }
   },

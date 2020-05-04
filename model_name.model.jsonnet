@@ -3,7 +3,7 @@
   sql : "select 1",
   mappings : { },
   dimensions : {
-    _ : {
+    _ : { 
       label : "1",
       type : "decimal", 
       column : "1"
